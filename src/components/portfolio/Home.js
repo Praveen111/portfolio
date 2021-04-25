@@ -39,7 +39,7 @@ const useStyles = makeStyles((theme) => ({
         height: '100vh',
         // left: '950px',
         top: '0px',
-        background: 'linear-gradient(90deg, #BDD8F7 0%, rgba(189, 216, 247, 0) 93.58%)'
+  background: 'linear-gradient(90deg, #BDD8F7 0%, rgba(189, 216, 247, 0) 93.58%)'
     },
     title : {
         position: 'absolute',
