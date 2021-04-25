@@ -6,7 +6,7 @@ import facebookImg from '../../assets/images/portfolio/facebook.png';
 import TwitterImg from '../../assets/images/portfolio/twitter.png';
 import LinkedInImg from '../../assets/images/portfolio/linkedin.png';
 import githubImg from '../../assets/images/portfolio/github.png';
-import useMediaQuery from '@material-ui/core/useMediaQuery';
+import useMediaQuery from '@material-ui/core/useMediaQuery'
 
 const useStyles = makeStyles((theme) => ({
     divStyle : {
